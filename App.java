@@ -5,7 +5,7 @@ public class App {
         car.setComb(20);
         System.out.println(car.getDist() );
         System.out.println(car.getComb() );
-        System.out.println(car.getDiv("a distancia percorrida foi de") );
+        System.out.println(car.getDiv() );
 
     }
 }
